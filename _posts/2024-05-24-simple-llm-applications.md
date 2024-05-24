@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Simple AI integrations
 date: 2024-05-24
+description: A variety of simple, every day applications of LLM tech 
 ---
 
 # Simple AI integrations
