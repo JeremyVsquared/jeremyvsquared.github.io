@@ -1,13 +1,15 @@
 ---
+layout: post
 title: Adaptive RAG
 date: 2024-06-01
+description: A flexible, self-correcting RAG implementation
 ---
 
 [source](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_adaptive_rag_local.ipynb)
 
 # Adaptive RAG
 
-Adaptive RAG adapts self-correction with a RAG system. This graph grants the LLM the ability to iterate over retrieval tools until it is satisfied that it has sufficient information to answer the user query.
+Adaptive RAG integrates self-correction with a RAG system. This graph grants the LLM the ability to iterate over retrieval tools until it is satisfied that it has sufficient information to answer the user query.
 
 ## 1. Verify LLM
 
