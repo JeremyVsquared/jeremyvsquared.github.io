@@ -1,6 +1,8 @@
 ---
+layout: post
 title: MLflow hosted models
 date: 2024-06-15
+description: Notes on MLflow hosted models
 ---
 
 ## 1. Model Training and Logging
@@ -19,7 +21,7 @@ with mlflow.start_run():
 
 ## 2. Model Saving
 
-MLflow supports saving models in a variety of formats. For custom models, you might want to use the pyfunc flavor, which allows you to save Python functions or classes as models.
+MLflow supports saving models in a variety of formats. For custom models, you might want to use the `pyfunc` flavor, which allows you to save Python functions or classes as models.
 
 ## 3. Model Serving
 
