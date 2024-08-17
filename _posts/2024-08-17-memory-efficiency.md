@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Data structure memory efficiency
 date: 2024-08-17
+description: Examining the efficiency and performance of various data structures
 ---
 
 Looking at data structure memory and computational efficiency
