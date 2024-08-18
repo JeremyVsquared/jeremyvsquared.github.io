@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Managing Recursion Depth in LangGraph
 date: 2024-08-18
+description: Controlling the maximum recursion of a graph in operation
 ---
 
 # Managing Recursion Depth in LangGraph
