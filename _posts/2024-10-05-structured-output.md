@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Reliability of structured output from small models
-date: 2024/10/05
+date: 2024-10-05
+description: Methods and metrics of reliable output formatting from various small LLM's
 ---
 
 # Reliability of structured output from small models
