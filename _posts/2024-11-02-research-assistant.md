@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Multi-agent research assistant
 date: 2024-11-02
+description: Agents are better when they gang up on a problem
 ---
 
 # Multi-agent research assistant
