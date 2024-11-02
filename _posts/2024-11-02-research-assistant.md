@@ -461,7 +461,7 @@ from langchain.utilities.tavily_search import TavilySearchAPIWrapper
 
 
 ```
-TAVILY_API_KEY = "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"
+TAVILY_API_KEY = "[API KEY]"
 tavilySearchAPIWrapper = TavilySearchAPIWrapper(tavily_api_key=TAVILY_API_KEY)
 
 tavily_search = TavilySearchResults(max_results=3,
