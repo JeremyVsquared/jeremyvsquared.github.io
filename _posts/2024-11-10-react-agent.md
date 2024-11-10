@@ -1,6 +1,8 @@
 ---
+layout: post
 title: ReAct agent
 date: 2024-11-10
+description: A basic ReAct agent langgraph build
 ---
 
 # ReAct agent
