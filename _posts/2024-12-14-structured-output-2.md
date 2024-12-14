@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Revisiting structured output
-date: 2024/12/14
+date: 2024-12-14
+description: Structured output updates for Ollama library
 ---
 
 [As announced in a blog post](https://ollama.com/blog/structured-outputs), Ollama was recently updated with built in support for structured output. This can be used in conjunction with pydantic class definitions. This should generally function reliably when provided as the `format` parameter to the `chat()` function, but it can be enhanced by adding "_return as json_" to the prompt.
