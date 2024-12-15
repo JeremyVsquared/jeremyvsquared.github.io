@@ -1,6 +1,8 @@
 ---
+layout: post
 title: FastAPI basics
 date: 2024-12-15
+description: FastAPI basic operations, structures and interactions
 ---
 
 # FastAPI basics
