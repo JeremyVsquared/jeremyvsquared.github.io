@@ -800,32 +800,3 @@ else:
     deleted directory
 
 
-
-```python
-
-```
-
-
-```python
-from collections import namedtuple
-
-Point = namedtuple('Point', ['x', 'y'])
-```
-
-
-```python
-pt1 = Point(32, 64)
-pt1
-```
-
-
-
-
-    Point(x=32, y=64)
-
-
-
-
-```python
-
-```
