@@ -11,14 +11,6 @@ First we will create a local directory to save files to.
 
 
 ```python
-!pwd
-```
-
-    /Users/jeremyvanvalkenburg/Repositories/posts
-
-
-
-```python
 import requests, json
 
 import os
@@ -778,11 +770,6 @@ def test_websocket():
     
     [32m============================== [32m[1m1 passed[0m[32m in 0.32s[0m[32m ===============================[0m
 
-
-
-```python
-
-```
 
 # Clean up
 
