@@ -1,6 +1,7 @@
 ---
+layout: post
 title: Agentic RAG
-date: 2024/05/12
+date: 2024-05-12
 ---
 
 # Agentic RAG
@@ -101,11 +102,6 @@ tools = [retriever_tool]
 ```
 
 ## 2.Agent state
-
-
-```python
-
-```
 
 
 ```python
