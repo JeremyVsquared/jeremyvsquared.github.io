@@ -2,6 +2,7 @@
 layout: post
 title: Agentic RAG
 date: 2024-05-12
+description: Building an agent RAG (retrieval augmented generation) graph, combining intelligent agents with knowledge retrieval for enhanced RAG performance
 ---
 
 # Agentic RAG
