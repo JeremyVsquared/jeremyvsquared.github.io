@@ -2,6 +2,7 @@
 layout: post
 title: Development in Jupyter Notebooks
 date: 2024-07-01
+description: Jupyter features useful for general development in the notebook environment
 ---
 
 # Developing in Jupyter notebooks
