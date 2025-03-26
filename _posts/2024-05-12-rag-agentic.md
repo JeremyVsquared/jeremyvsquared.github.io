@@ -603,9 +603,3 @@ for output in graph.stream(inputs):
                     'stock. Exposure timing is an important risk retention '
                     'decision, but the ideal time is not specified.']}
     '\n---\n'
-
-
-
-```python
-
-```
