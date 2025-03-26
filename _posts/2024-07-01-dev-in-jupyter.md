@@ -46,9 +46,13 @@ It is possible to execute all cells in a notebook using `nbconvert` as well. Thi
 
 `jupyter nbconvert --to markdown --no-input --execute --inplace notebook_file.ipynb`
 
-The output file can be specified using the `--output` parameter.
+The output file can be specified using the `--output` parameter. This is especially useful when developing scripts in a notebook and exporting to a script.
 
-`jupyter nbconvert --to markdown --output notebook_executed.ipynb notebook_file.ipynb`
+`jupyter nbconvert --to python lib_dev.ipynb --output ../lib/lib.py`
+
+In the case of developing python scripts in a notebook, it is often necessary to omit cell outputs as well.
+
+`jupyter nbconvert --to python lib_dev.ipynb --output ../lib/lib.py --TemplateExporter.exclude_output=True`
 
 ## Performance
 
