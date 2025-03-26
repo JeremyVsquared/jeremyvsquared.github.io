@@ -2,6 +2,7 @@
 layout: post
 title: MLflow basic tracking
 date: 2024-06-07
+description: Basic operations and experiment tracking with MLflow 
 ---
 
 ## Using MLflow for Experiment Tracking and Metric Logging
